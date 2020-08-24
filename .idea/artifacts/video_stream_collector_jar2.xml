@@ -1,0 +1,32 @@
+<component name="ArtifactManager">
+  <artifact name="video-stream-collector:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/video_stream_collector_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="video-stream-collector.jar">
+        <element id="module-output" name="video-stream-collector" />
+      </element>
+      <element id="library" level="project" name="Maven: org.apache.yetus:audience-annotations:0.5.0" />
+      <element id="library" level="project" name="Maven: net.sf.jopt-simple:jopt-simple:5.0.4" />
+      <element id="library" level="project" name="Maven: org.apache.zookeeper:zookeeper:3.4.13" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.8" />
+      <element id="library" level="project" name="Maven: org.scala-lang:scala-reflect:2.11.12" />
+      <element id="library" level="project" name="Maven: org.xerial.snappy:snappy-java:1.1.7.2" />
+      <element id="library" level="project" name="Maven: com.github.luben:zstd-jni:1.3.7-1" />
+      <element id="library" level="project" name="Maven: com.typesafe.scala-logging:scala-logging_2.11:3.9.0" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.8" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0" />
+      <element id="library" level="project" name="Maven: com.101tec:zkclient:0.11" />
+      <element id="library" level="project" name="Maven: org.bytedeco.javacpp-presets:opencv:3.4.3-1.4.3" />
+      <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.0" />
+      <element id="library" level="project" name="Maven: org.apache.kafka:kafka_2.11:2.1.1" />
+      <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+      <element id="library" level="project" name="Maven: org.scala-lang:scala-library:2.11.12" />
+      <element id="library" level="project" name="Maven: com.yammer.metrics:metrics-core:2.2.0" />
+      <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+      <element id="library" level="project" name="Maven: org.apache.kafka:kafka-clients:2.1.1" />
+      <element id="library" level="project" name="Maven: org.lz4:lz4-java:1.5.0" />
+      <element id="library" level="project" name="Maven: org.bytedeco:javacpp:1.4.3" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+    </root>
+  </artifact>
+</component>

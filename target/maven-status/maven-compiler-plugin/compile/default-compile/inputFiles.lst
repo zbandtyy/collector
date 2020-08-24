@@ -1,0 +1,16 @@
+E:\数据流应用项目\课题项目standard\video-stream-classification-master\video-stream-classification-master\video-stream-collector\src\main\java\com\iot\video\app\kafka\serialize\HelloKryo.java
+E:\数据流应用项目\课题项目standard\video-stream-classification-master\video-stream-classification-master\video-stream-collector\src\main\java\com\iot\video\app\kafka\serialize\TestSerialize.java
+E:\数据流应用项目\课题项目standard\video-stream-classification-master\video-stream-classification-master\video-stream-collector\src\main\java\com\iot\video\app\kafka\serialize\VideoEventDataKryoDeSerializer.java
+E:\数据流应用项目\课题项目standard\video-stream-classification-master\video-stream-classification-master\video-stream-collector\src\main\java\com\iot\video\app\kafka\collector\VideoEventGenerator.java
+E:\数据流应用项目\课题项目standard\video-stream-classification-master\video-stream-classification-master\video-stream-collector\src\main\java\com\iot\video\app\kafka\config\Config.java
+E:\数据流应用项目\课题项目standard\video-stream-classification-master\video-stream-classification-master\video-stream-collector\src\main\java\com\iot\video\app\kafka\serialize\VideoEventDataProtostuffDeserializer.java
+E:\数据流应用项目\课题项目standard\video-stream-classification-master\video-stream-classification-master\video-stream-collector\src\main\java\com\iot\video\app\kafka\serialize\VideoEventDataProtostuffSerializer.java
+E:\数据流应用项目\课题项目standard\video-stream-classification-master\video-stream-classification-master\video-stream-collector\src\main\java\com\iot\video\app\kafka\serialize\StringSerializer.java
+E:\数据流应用项目\课题项目standard\video-stream-classification-master\video-stream-classification-master\video-stream-collector\src\main\java\com\iot\video\app\kafka\datatype\VideoEventData.java
+E:\数据流应用项目\课题项目standard\video-stream-classification-master\video-stream-classification-master\video-stream-collector\src\main\java\com\iot\video\app\kafka\collector\VideoStreamCollector.java
+E:\数据流应用项目\课题项目standard\video-stream-classification-master\video-stream-classification-master\video-stream-collector\src\main\java\com\iot\video\app\kafka\serialize\PersonProtostuffSerializer.java
+E:\数据流应用项目\课题项目standard\video-stream-classification-master\video-stream-classification-master\video-stream-collector\src\main\java\com\iot\video\app\kafka\util\PropertyFileReader.java
+E:\数据流应用项目\课题项目standard\video-stream-classification-master\video-stream-classification-master\video-stream-collector\src\main\java\com\iot\video\app\kafka\serialize\ProtostuffUtil.java
+E:\数据流应用项目\课题项目standard\video-stream-classification-master\video-stream-classification-master\video-stream-collector\src\main\java\com\iot\video\app\kafka\partition\KeyPartitioner.java
+E:\数据流应用项目\课题项目standard\video-stream-classification-master\video-stream-classification-master\video-stream-collector\src\main\java\com\iot\video\app\kafka\serialize\VideoEventDataKryoSerializer.java
+E:\数据流应用项目\课题项目standard\video-stream-classification-master\video-stream-classification-master\video-stream-collector\src\main\java\com\iot\video\app\kafka\serialize\Person.java

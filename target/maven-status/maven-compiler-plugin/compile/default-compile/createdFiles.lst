@@ -1,0 +1,11 @@
+com\iot\video\app\kafka\collector\VideoEventGenerator$EventGeneratorCallback.class
+com\iot\video\app\kafka\serialize\VideoEventDataProtostuffDeserializer.class
+com\iot\video\app\kafka\collector\VideoStreamCollector.class
+com\iot\video\app\kafka\collector\VideoEventGenerator.class
+com\iot\video\app\kafka\config\Config.class
+com\iot\video\app\kafka\serialize\StringSerializer.class
+com\iot\video\app\kafka\partition\KeyPartitioner.class
+com\iot\video\app\kafka\util\PropertyFileReader.class
+com\iot\video\app\kafka\datatype\VideoEventData.class
+com\iot\video\app\kafka\serialize\VideoEventDataProtostuffSerializer.class
+com\iot\video\app\kafka\serialize\VideoEventDataKryoSerializer.class
